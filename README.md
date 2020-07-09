@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a web developer & designer living in Timisoara, Romania 🇷🇴. 
+I prefer to code in JavaScript and I love simple and fast software 🚀.
+
 <!--
 **raresportan/raresportan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
